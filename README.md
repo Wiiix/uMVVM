@@ -262,4 +262,4 @@ Unity 3D 与 WPF/Sliverlight 不同，它没有提供类似的 Data Binding，�
     }
 
 ## 小结 ##
-这是一个非常简单的 MVVM 框架，也证明了在 Unity 3D 中实现 MVVM 设计模式的可能性。相应的代码可在 Github 上详细查看，地址为：[https://github.com/MEyes/uMVVM](https://github.com/MEyes/uMVVM)
+这是一个非常简单的 MVVM 框架，也证明了在 Unity 3D 中实现 MVVM 设计模式的可能性。
